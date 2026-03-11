@@ -37,7 +37,7 @@ namespace LibraryManagement
                         case "6": service.HandleReturn(); break;
                         case "7": service.HandleHistory(); break;
                         case "8": service.HandleTopBorrowers(); break;
-                        case "9": display.ShowOverdueAlert(branch); break;
+                        case "9": service.HandleSearchMember(); break;
                         case "10": service.HandleSearch(); break;
                         case "11": service.HandleInventory(); break;
                         case "12": service.HandleFineReport(); break;

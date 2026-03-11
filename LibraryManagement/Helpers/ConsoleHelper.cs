@@ -18,7 +18,7 @@
             Console.WriteLine("6. Return Book");
             Console.WriteLine("7. Borrow History");
             Console.WriteLine("8. Top Borrowers");
-            Console.WriteLine("9. Overdue Alert");
+            Console.WriteLine("9. Search Member");
             Console.WriteLine("10. Search");
             Console.WriteLine("11. Inventory");
             Console.WriteLine("12. Fines Report");
